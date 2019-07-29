@@ -8,4 +8,4 @@ The SIRV model is a simple mathematical model of epidemics and it can be impleme
 - R (Recovered)
 - V (Vaccinated)
 
-Two environment versions are uploaded to this repository where an agent can decide its vaccination rate depending on the percentage of infected persons. In the first version, the society vaccination rate is constant whereas the agent can modifies its own rate. On the other hand, the second version allows the user to provide a society time dependent policy.
+The agent learns to modifies its own vaccination rate in order to reduce the cost. On the other hand, the user provides to the society a time dependent policy as input.
