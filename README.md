@@ -8,4 +8,4 @@ The SIRV model is a simple mathematical model of epidemics and it can be impleme
 - R (Recovered)
 - V (Vaccinated)
 
-The agent learns to modifies its own vaccination rate in order to reduce the cost. On the other hand, the user provides to the society a time dependent policy as input.
+The agent learns to modifies its own vaccination rate in order to reduce the cost. On the other hand, the user provides to the society a time dependent policy as input. 
